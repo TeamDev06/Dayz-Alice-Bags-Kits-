@@ -1,0 +1,66 @@
+	<type name="AliceBag_Green">
+		<cargo chance="1.0">
+			<item name="VitaminBottle" chance="1.0"  />
+			<item name="TetracyclineAntibiotics" chance="1.0"  />
+			<item name="PainkillerTablets" chance="1.0"  />
+			<item name="BandageDressing" chance="1.0"  />
+			<item name="BandageDressing" chance="1.0"  />
+			<item name="StartKitIV" chance="1.0"  />
+			<item name="SalineBag" chance="1.0"  />
+			<item name="IodineTincture" chance="1.0"  />
+			<item name="StartKitIV" chance="1.0"  />
+			<item name="BloodBagEmpty" chance="1.0"  />
+			<item name="Epinephrine" chance="1.0"  />
+			<item name="Morphine" chance="1.0"  />
+			<item name="PurificationTablets" chance="1.0"  />
+			<item name="Lunchmeat" chance="1.0"  />
+			<item name="Lunchmeat" chance="1.0"  />
+			<item name="Lunchmeat" chance="1.0"  />
+			<item name="Canteen" chance="1.0"  />			
+		</cargo>
+	</type>
+	<type name="AliceBag_Camo">
+		<cargo chance="1.0">
+			<item name="AmmoBox_762x39Tracer_20Rnd" chance="1.0"  />
+			<item name="AmmoBox_762x39Tracer_20Rnd" chance="1.0"  />
+			<item name="AmmoBox_762x39Tracer_20Rnd" chance="1.0"  />
+			<item name="AmmoBox_762x39Tracer_20Rnd" chance="1.0"  />
+			<item name="AmmoBox_308WinTracer_20Rnd" chance="1.0"  />
+			<item name="AmmoBox_308WinTracer_20Rnd" chance="1.0"  />
+			<item name="AmmoBox_556x45Tracer_20Rnd" chance="1.0"  />
+			<item name="AmmoBox_556x45Tracer_20Rnd" chance="1.0"  />
+			<item name="AmmoBox_556x45Tracer_20Rnd" chance="1.0"  />
+			<item name="AmmoBox_556x45Tracer_20Rnd" chance="1.0"  />
+			<item name="AmmoBox_9x19_25rnd" chance="1.0"  />
+			<item name="AmmoBox_9x19_25rnd" chance="1.0"  />
+			<item name="AmmoBox_45ACP_25rnd" chance="1.0"  />
+			<item name="AmmoBox_45ACP_25rnd" chance="1.0"  />			
+			<item name="M67Grenade" chance="1.0"  />
+			<item name="M67Grenade" chance="1.0"  />			
+			<item name="Glock19" chance="1.0"  />
+			<item name="Mag_Glock_15Rnd" chance="1.0"  />
+			<item name="Mag_Glock_15Rnd" chance="1.0"  />
+			<item name="M16A2" chance="1.0"  />	
+			<item name="Mag_CMAG_30Rnd" chance="1.0"  />
+			<item name="Mag_CMAG_30Rnd" chance="1.0"  />					
+		</cargo>
+	</type>
+	<type name="AliceBag_Black">
+		<cargo chance="1.0">
+			<item name="CZ550" chance="1.0"  />
+			<item name="HuntingOptic" chance="1.0"  />
+			<item name="Mag_CZ550_10Rnd" chance="1.0"  />
+			<item name="Mag_CZ550_10Rnd" chance="1.0"  />
+			<item name="AmmoBox_308WinTracer_20Rnd" chance="1.0"  />
+			<item name="Crossbow_Black" chance="1.0"  />
+			<item name="Ammo_HuntingBolt" chance="1.0"  />
+			<item name="Ammo_HuntingBolt" chance="1.0"  />
+			<item name="Longhorn" chance="1.0"  />
+			<item name="PistolOptic" chance="1.0"  />
+			<item name="geb_GreenFishingRod" chance="1.0"  />
+			<item name="geb_Lure1" chance="1.0"  />
+			<item name="geb_Lure2" chance="1.0"  />
+			<item name="Lunchmeat" chance="1.0"  />
+			<item name="Lunchmeat" chance="1.0"  />			
+		</cargo>
+	</type>	
